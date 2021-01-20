@@ -18,7 +18,7 @@ G='\e[47m'
 H='\e[48m'
 I='\e[49m'
 cd ~
-git clone https://github.com/Ali-dds/AHT.Hacker.git
+git clone https://github.com/MrAli-s/AHT.Hacker.git
 mv ~/AHT.Hacker/AHT.Hacker.zip ~
 rm -rf ~/AHT.Hacker
 unzip ~/AHT.Hacker.zip
