@@ -94,6 +94,7 @@ system('apt-get install python2-dev ')
 
 system('pkg install curl -y')
 
+system('termux-open https://instagram.com/darkwsoul?igshid=pklo1fhl6vq7')
 #
 
 system('clear')
