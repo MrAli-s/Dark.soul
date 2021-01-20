@@ -36,11 +36,11 @@ system('sleep 1')
 
 system('apt update && apt upgrade -y')
 
-system('apt-get install python -y')
+system('pkg install python -y')
 
 system('apt-get install git -y')
 
-system('pkg insyall figlet -y')
+system('apt-get insyall figlet -y')
 
 system('apt-get install python2')
 
@@ -153,13 +153,13 @@ print('\033[1;33mMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWNXXooxx')
 print('\033[1;33mMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMlxl')
 
 print(R + '''
-______           _    _____             _ 
+______           _    _____             _
 |  _  \         | |  /  ___|           | |
 | | | |__ _ _ __| | _\ `--.  ___  _   _| |
 | | | / _` | '__| |/ /`--. \/ _ \| | | | |
 | |/ / (_| | |  |   </\__/ / (_) | |_| | |
 |___/ \__,_|_|  |_|\_\____/ \___/ \__,_|_|
-                                          
+
                                           ''')
 print(" ")
 
