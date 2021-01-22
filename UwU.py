@@ -42,7 +42,18 @@ print (G + '[' + R + '1' + G + ']' + W + '==' + G + '[' + Y + 'Decrypt bash scri
 system('sleep 0.1')
 print (G + '[' + R + '2' + G + ']' + W + '==' + G + '[' + Y + 'Encrypt bash script' + G + ']')
 system('sleep 0.1')
+print ( G +"["+ R +"0" + G +"]"+ W +"=="+ G +"["+ Y +"Exit program"+ G +"]")
+
+print(" ")
 mroid=str(input(R +"              ●~"+ G +"Enter Number "+ R +"~》 "+ G))
+if  mroid=="0":
+
+    system('clear')
+    print(G)
+    system('figlet GoodBye')
+    print(R +"="*70)
+
+    exit()
 if mroid == '1':
     system('clear')
     system('python ~/Dark.soul/yt.py')
