@@ -210,8 +210,7 @@ if droid == "1":
     input (G +"Enter To OpEn... ")
 
     system ('clear')
-    print(R +'Please transfer the script to my file...:D')
-    system('python yt.py')
+    system('bash ~/Dark.soul/OwO.sh')
     system('python Dark.py')
 
 if droid == "2":
