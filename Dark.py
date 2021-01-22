@@ -165,7 +165,7 @@ ______           _    _____             _
                                           ''')
 print(" ")
 
-print ( G +"["+ R +"1" + G +"]"+ W +"=="+ G +"["+ Y +"Decrypt bash script"+ G +"]")
+print ( G +"["+ R +"1" + G +"]"+ W +"=="+ G +"["+ Y +"Edit bash script"+ G +"]")
 
 system('sleep 0.1')
 
